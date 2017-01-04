@@ -10,7 +10,7 @@ This project implements template matching using the SQDIFF (sum of squared diffe
 
 Multiple template matches are supported using a threshold value.
 
-[Enhancements]
+*[Planned Enhancements]*
 
 Convert color images to their grayscale equivalents using an initial pass on the GPU before performing template matching.
 
