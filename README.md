@@ -2,6 +2,8 @@ Templatematching.JS
 
 Template matching implemented in Javascript
 
+Demo: https://kantu.io/demo/templatematching.js
+
 ********************
 
 This project implements template matching using the SQDIFF (sum of squared differences) metric.
