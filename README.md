@@ -7,10 +7,12 @@ Demo: https://kantu.io/demo/templatematching.js
 Typical performance for the "BBC" test screenshot:
 
 - PC (few years old): ~135ms
-- Samsung 7 Mobile Chrome: ~500ms
+- Samsung S7 Mobile Phone (Chrome): ~500ms
 - Virtual Box (no graphics card): ~1,700ms
 - Samsung Chromebook: ~1,700ms
 - SQDIFF *before* optimzations >> 20,000ms 
+
+The demo works in Chrome and Firefox. It does not work with Microsoft Edge (yet).
 
 ********************
 
