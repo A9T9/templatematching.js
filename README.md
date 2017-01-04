@@ -2,7 +2,7 @@ Templatematching.JS
 
 Template matching implemented in Javascript
 
-Demo: https://kantu.io/demo/templatematching.js
+Demo: https://kantu.io/demo/templatematching.js (scroll down for results and performance measurement)
 
 ********************
 
