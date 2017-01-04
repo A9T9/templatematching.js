@@ -8,9 +8,9 @@ Typical performance for the "BBC" test screenshot:
 
 - PC (few years old): ~135ms
 - Samsung 7 Mobile Chrome: ~500ms
-- Virtual Box (no graphic card): ~1700ms
-- Samsung Chromebook: ~1700ms
-- SQDIFF *before* optimzations >> 20000ms 
+- Virtual Box (no graphics card): ~1,700ms
+- Samsung Chromebook: ~1,700ms
+- SQDIFF *before* optimzations >> 20,000ms 
 
 ********************
 
