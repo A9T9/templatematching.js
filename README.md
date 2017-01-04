@@ -2,7 +2,15 @@
 
 Template matching implemented in Javascript
 
-Demo: https://kantu.io/demo/templatematching.js (scroll down for results and performance measurement)
+Demo: https://kantu.io/demo/templatematching.js 
+
+Typical performance for the "BBC" test screenshot:
+
+- PC (few years old): ~135ms
+- Samsung 7 Mobile Chrome: ~500ms
+- Virtual Box (no graphic card): ~1700ms
+- Samsung Chromebook: ~1700ms
+- SQDIFF *before* optimzations >> 20000ms 
 
 ********************
 
