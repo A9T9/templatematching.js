@@ -1,4 +1,4 @@
-Templatematching.JS 
+# Templatematching.JS 
 
 Template matching implemented in Javascript
 
