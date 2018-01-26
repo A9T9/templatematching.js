@@ -2,7 +2,7 @@
 
 Template matching implemented in Javascript
 
-Demo: https://kantu.io/demo/templatematching.js 
+Demo: https://a9t9.com/demo/templatematching.js 
 
 Typical performance for the "BBC" test screenshot:
 
